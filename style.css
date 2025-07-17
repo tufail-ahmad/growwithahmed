@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  #package-carousel .carousel-slide {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: 0;
+  }
+
+  #package-carousel .carousel-slide img {
+    margin-bottom: 1rem;
+  }
+}
